@@ -1,0 +1,76 @@
+{
+  "updated": "2026-11-25",
+  "notice": "2026년 공고 기준 정리입니다. 다음 기수 모집 일정은 주최 측 공식 공지를 확인하세요.",
+  "items": [
+    {
+      "id": "act-01",
+      "type": "교육",
+      "title": "SK하이닉스 청년 Hy-Po",
+      "host": "고용노동부 · SK하이닉스 · 대한상공회의소",
+      "summary": "K-Digital Training 과정으로 반도체 기초·전문 직무교육과 진로탐색 컨설팅을 제공합니다. 2026 상반기 9기는 4월 15일~27일에 서류를 접수했습니다.",
+      "period": "2026 상반기 서류접수 04.15~04.27",
+      "tags": ["SK하이닉스", "직무교육", "KDT"],
+      "source": "https://thinkyou.co.kr/contest/62445/"
+    },
+    {
+      "id": "act-02",
+      "type": "대외활동",
+      "title": "SK하이닉스 대학생 앰버서더",
+      "host": "SK하이닉스",
+      "summary": "반도체 기술과 기업문화를 콘텐츠로 알리는 대학생 홍보 활동입니다. 2026년에는 1~2월에 모집해 4월부터 10월까지 활동했습니다.",
+      "period": "모집 01.19~02.08 / 활동 04~10월",
+      "tags": ["SK하이닉스", "콘텐츠", "서포터즈"],
+      "source": "https://thinkyou.co.kr/extAct/60833/"
+    },
+    {
+      "id": "act-03",
+      "type": "멘토링",
+      "title": "SEMI Campus Outreach 2026",
+      "host": "SEMI Korea",
+      "summary": "반도체 산업 진출을 희망하는 이공계 대학생·취업준비생에게 전공별 직무와 커리어 패스 멘토링, 기업 탐색 기회를 주는 하이브리드 프로그램입니다.",
+      "period": "2026.08.03~08.11",
+      "tags": ["SEMI", "멘토링", "커리어"],
+      "source": "https://www.semi.org/ko/connect/events/campus-outreach-2026"
+    },
+    {
+      "id": "act-04",
+      "type": "실습교육",
+      "title": "대학생을 위한 반도체공정실습교육 (SPT Hands On)",
+      "host": "SEMI · 명지대 반도체공정진단연구소",
+      "summary": "칩 제조 공정 장비와 요소 기술을 실습으로 배우는 교육입니다. 6학기 이상 이수한 4학년 또는 직전 연도 졸업생이 대상이며 회당 20명입니다.",
+      "period": "2026.03.23~11.19 (회차별 운영)",
+      "tags": ["공정", "실습", "장비"],
+      "source": "https://www.semi.org/ko/connect/event/spt-hands-on-2026"
+    },
+    {
+      "id": "act-05",
+      "type": "실습교육",
+      "title": "대학생을 위한 반도체패키징실습교육 2026",
+      "host": "SEMI · 명지대 반도체공정진단연구소",
+      "summary": "반도체 패키징 공정 실습 교육입니다. 4학년(6학기 이상) 또는 직전 연도 졸업생 대상, 회당 20명, 학생부담금 33만원입니다.",
+      "period": "2026.11.16~11.26",
+      "tags": ["패키징", "후공정", "실습"],
+      "source": "https://www.semi.org/ko/connect/event/spt-hands-on-packaging-2026"
+    },
+    {
+      "id": "act-06",
+      "type": "공모전",
+      "title": "대한민국 반도체 설계대전",
+      "host": "산업통상부 · 지식재산처 / 주관 한국반도체산업협회",
+      "summary": "반도체 설계 아이디어와 구현 역량을 겨루는 공모전입니다. 2026년 제27회 시상식에서 총 21개 팀이 수상했습니다.",
+      "period": "매년 개최 (2026년 10월 시상)",
+      "tags": ["설계", "공모전", "KSIA"],
+      "source": "https://www.motir.go.kr"
+    },
+    {
+      "id": "act-07",
+      "type": "교육",
+      "title": "한국반도체아카데미",
+      "host": "산업통상부 지원 / 한국반도체산업협회 운영",
+      "summary": "민관 협력 반도체 인재양성 기관으로, EDA 툴 활용 설계·검증 교육과 AI 반도체, 차량용 반도체 교육 과정을 운영합니다.",
+      "period": "상시 (과정별 모집)",
+      "tags": ["설계", "EDA", "AI반도체"],
+      "source": "https://www.hellot.net/news/article.html?no=107764"
+    }
+  ]
+}
